@@ -5,3 +5,8 @@ How is the staging area different from the working directory and the repository?
 Staging area is a pre-commit area, so it is an area between working directory and the repository.
 You put in staging area what you will commit later, plus you can remove from staging area what you don't want to commit.
 
+How can you use the staging area to make sure you have one commit per logical change?
+Adding to the stage area just the modified files I want to commit, which reflect the logical change. 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+With experimental development of code or for localization for example, or just to implement new modes.
