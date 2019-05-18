@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+It creates an empty .git directory
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is a pre-commit area, so it is an area between working directory and the repository.
+You put in staging area what you will commit later, plus you can remove from staging area what you don't want to commit.
+
